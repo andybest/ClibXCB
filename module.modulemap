@@ -1,0 +1,6 @@
+
+module CXCB [system] [extern_c] {
+    header "xcb/xcb.h"
+    link "xcb"
+    export *
+}
