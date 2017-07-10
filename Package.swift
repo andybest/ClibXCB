@@ -8,5 +8,5 @@ let package = Package(
     name: "ClibXCB",
     dependencies: [
         // Dependencies declare other packages that this package depends on.
-    ],
+    ]),
 )
