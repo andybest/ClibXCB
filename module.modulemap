@@ -1,6 +1,6 @@
 
 module CXCB [system] [extern_c] {
-    header "/opt/X11/include/xcb/xcb.h"
+    header "shim.h"
     link "xcb"
     export *
 }
